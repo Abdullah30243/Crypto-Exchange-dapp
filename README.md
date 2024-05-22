@@ -1,10 +1,10 @@
-<b>Uniswap-Inspired Web3 Development Project<b>
+<b>Uniswap-Inspired Web3 Development Project 
 
-<b>Overview<\b>
+<b>Overview  
 
 This project is a comprehensive Web3 development tutorial, where you'll build a decentralized cryptocurrency exchange (DEX) inspired by Uniswap. You'll learn how to create a React application that integrates with MetaMask, fetches live smart contract data, and enables users to create, swap, and manage their own ERC20 tokens.
 
-<b>Features<\b>
+<b>Features 
 
 - MetaMask pairing for secure wallet integration
 - Live smart contract data fetching and updating
@@ -12,7 +12,7 @@ This project is a comprehensive Web3 development tutorial, where you'll build a 
 - Swapping of tokens with other users
 - User-friendly interface for managing tokens and transactions
 
-<b>Technical Requirements<\b>
+<b>Technical Requirements 
 
 - React.js for frontend development
 - Web3.js for blockchain interactions
@@ -20,13 +20,13 @@ This project is a comprehensive Web3 development tutorial, where you'll build a 
 - MetaMask for wallet integration
 - Truffle Suite for smart contract deployment and testing
 
-<b>Getting Started<\b>
+<b>Getting Started 
 
 1. Clone the repository and install dependencies with npm install
 2. Set up your development environment with Truffle Suite and MetaMask
 3. Follow the tutorial instructions to build and deploy your Uniswap-inspired DEX
 
-<b>Tutorial Outline<\b>
+<b>Tutorial Outline 
 
 - Setting up the development environment
 - Creating and deploying smart contracts
@@ -35,14 +35,14 @@ This project is a comprehensive Web3 development tutorial, where you'll build a 
 - Implementing token creation, swapping, and management
 - Testing and deploying the application
 
-<b>Resources<\b>
+<b>Resources  
 
 - Uniswap Documentation 
 - Web3.js Documentation 
 - Solidity Documentation 
 - Truffle Suite Documentation 
 
-<b>License<\b>
+<b>License 
 
 This project is licensed under the MIT License. See LICENSE for details.
 
